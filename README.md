@@ -46,7 +46,7 @@ The system is divided into modular domains, developed collaboratively by the tea
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/prasadjr/Spring_Boot_Application.git
    cd project-management-app
 
 2. Build the project: mvn clean install
