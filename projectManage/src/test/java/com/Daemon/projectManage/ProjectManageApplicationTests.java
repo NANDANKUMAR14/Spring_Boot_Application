@@ -1,10 +1,10 @@
-package com.Daemon.projectManage;
+package com.daemon.projectmanage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectManageApplicationTests {
+class ProjectmanageApplicationTests {
 
 	@Test
 	void contextLoads() {
